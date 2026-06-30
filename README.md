@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Saurav Pradhan 👋</h1>
-<h3 align="center">Building Agentic AI Systems & RAG Pipelines | Final-Year CSE (AI/ML), IIIT Nagpur</h3>
+<h3 align="center">FULL STACK AI DEVELOPER | Final-Year CSE (AI/ML), IIIT Nagpur</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/saurav-pradhan-53a0a0361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sauravwork19112003@gmail.comm"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -16,7 +16,6 @@
 - 🏆 4th Place (Grand Finalist) — **VNIT Nagpur AI Ideathon 2026**
 - 🎵 Leading the **Music Club performance team** at IIIT Nagpur
 - 🎯 Core ambition: build AI products that reach **millions of users**
-- 📍 From Benipatti, Bihar → Kota (JEE prep) → IIIT Nagpur
 
 ---
 
