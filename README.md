@@ -2,7 +2,7 @@
 <h3 align="center">FULL STACK AI DEVELOPER | Final-Year CSE (AI/ML), IIIT Nagpur</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/saurav-pradhan-53a0a0361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saurav-pradhan-53a0a0361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sauravwork19112003@gmail.comm"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
