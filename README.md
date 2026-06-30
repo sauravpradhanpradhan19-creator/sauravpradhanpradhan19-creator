@@ -7,6 +7,8 @@
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
+<p align="center">📧 <code>sauravwork19112003@gmail.com</code></p>
+
 ---
 
 ### 🚀 About Me
