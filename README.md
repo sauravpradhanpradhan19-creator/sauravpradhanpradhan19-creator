@@ -16,7 +16,7 @@
 - 🎓 Final-year **B.Tech CSE (AI/ML)** student at **IIIT Nagpur**, graduating 2027
 - 🤖 I build **agentic AI systems**, **RAG pipelines**, and **LLM-powered applications**
 - 🏆 4th Place (Grand Finalist) — **VNIT Nagpur AI Ideathon 2026**
-- 🎵 Leading the **Music Club performance team** at IIIT Nagpur
+- 🎵 Led the **Music Club performance team** at IIIT Nagpur
 - 🎯 Core ambition: build AI products that reach **millions of users**
 
 ---
